@@ -1,0 +1,12 @@
+.todo-card {
+    border: 1px solid black;
+    margin: 0.5em 0.5em;
+}
+
+.todo-label {
+    margin-bottom: 1em;
+}
+
+.todo-info {
+    padding: 0.5em
+}

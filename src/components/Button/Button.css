@@ -1,0 +1,22 @@
+.button-style {
+    background-color: rgb(228, 206, 62);
+    border: solid 1px;
+    border-color: gray;
+    cursor: pointer;
+}
+
+.space {
+    margin-right: 1em;
+}
+
+.button-style-tine {
+    padding: 0.2em 1em 0.2em 1em;
+}
+
+.button-style-big {
+    padding: 0.9em 1em 1.5em 1em;
+}
+
+.button-style:hover {
+    background-color: rgb(170, 147, 2);
+}

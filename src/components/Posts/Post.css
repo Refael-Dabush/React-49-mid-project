@@ -1,0 +1,12 @@
+.post-card {
+    border: 1px solid black;
+    margin: 0.5em 0.5em;
+}
+
+.post-label {
+    margin-bottom: 1em;
+}
+
+.post-info {
+    padding: 0.5em
+}
